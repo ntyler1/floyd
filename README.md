@@ -4,7 +4,7 @@
 
 # Project Features
 
-  - reads input weighted digraph from file via command line (see floydTest.txt). The input file consists of the following:
+  - reads weighted digraph from file via command line (see floydTest.txt). The input file consists of the following:
     - The input file may have zero or more lines of comments starting with 'c ' 
     - followed by an integer that represents the number of nodes in the graph 
     - followed by one edge per line. A triplet of integers represents a directed edge, where the third integer is the weight of the edge         from the first to the second integer. i.e. an edge 1  2  3 means that the weight of the edge from 1 to 2 is 3. 
